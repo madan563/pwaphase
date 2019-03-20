@@ -1,0 +1,44 @@
+{
+  "basics":
+  {
+    "img":"image folder/hello1.jpg",
+    "name":"madan",
+    "email":"madan99@gmail.com"
+  },
+  "carrer":{
+    "info":" I want to reach  a place that no one can reach me"
+  },
+  "education":[
+    {
+      "sno":"1",
+      "degree":"btech",
+      "institute":"mits",
+      "year":"2021"
+    },
+
+    {
+      "sno":"2",
+      "degree":"intermediate",
+      "institute":"bjc",
+      "year":"2017"
+    },
+    {
+      "sno":"3",
+      "degree":"10th",
+      "institute":"svn",
+      "year":"2015"
+    }
+  ],
+  "skills":[
+    {
+      "info":"c"
+    },
+    {
+      "info":"c++"
+    },
+    {
+      "info":"java"
+    }
+
+  ]
+}

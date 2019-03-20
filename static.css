@@ -1,0 +1,36 @@
+body {
+  background-color: white;
+}
+.child {
+  border: 2px solid blue;
+  background-color: #17D9DF;
+  text-align-last: center;
+  width: 14%;
+  box-shadow: 7px 7px black;
+  margin: 3%;
+  padding: 8%;
+  border-radius: 5%;
+}
+.parent {
+  display: flex;
+  border-radius:5%;
+}
+.resume {
+  border: 2px solid blue;
+  background-color:#17D9DF;
+  text-align-last: ;
+  width: 30%;
+  box-shadow: 7px 7px black;
+  margin: 5%;
+  padding: 10%;
+  border-radius: 5%
+}
+image{
+  
+  width: 100;
+  height:
+
+}
+table{
+  border: 1px solid green;
+}
